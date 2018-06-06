@@ -1,0 +1,88 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28/05/2018, 20:09:28
+    Author     : Wemerson
+*/
+
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+.logo{
+    max-width: 20%;
+    margin: 1em auto;
+}
+
+.nameDescription{
+    text-align: right;
+}
+
+.nameDescription h1{
+    font-weight: 300;
+    font-size: 3em;
+    text-transform: uppercase;
+    margin: 1em auto 0 auto;
+    color: #2d3c49;
+}
+
+.nameDescription p{
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #2d3c49;
+}
+
+hr.lineclass{
+    border: 2px solid #7d97ad;
+    width: 100%;
+}
+
+#banner{
+    margin: 1em auto;
+    text-align: center;
+}
+
+#banner img{
+    width: 100%;
+}
+
+#banner h2{
+    font-size: 1em;
+    font-weight: 400;
+    font-style: italic;
+    color: #7d97ad;
+}
+
+.projects{
+    text-align-last: center;
+}
+
+img.imagesproject{
+    align-items: center;
+    margin: 0 auto;
+}
+
+.modal-body img{
+    width: 100%;
+}
+
+#projetos h2{
+    font-weight: 400;
+    color: #7d97ad;
+}
+
+.nameProjects{
+    text-align: center;
+    color: #2d3c49;
+    text-transform: uppercase;
+}
+
+a.linkproject{
+    color: #2d3c49 !important;
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 2em;
+}
